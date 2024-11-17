@@ -9,6 +9,7 @@ let SocialSchema = new Schema(
     CText: {
       type: String,
   }
+  // sicon 
   },
   { timestamps: true }
 );
